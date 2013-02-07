@@ -11,7 +11,7 @@
 		569BDD4416C3C37F005995BE /* VCPotato.m in Sources */ = {isa = PBXBuildFile; fileRef = 569BDD4316C3C37F005995BE /* VCPotato.m */; };
 		569BDD4716C3C3EF005995BE /* VCOnion.m in Sources */ = {isa = PBXBuildFile; fileRef = 569BDD4616C3C3EF005995BE /* VCOnion.m */; };
 		569BDD4A16C3C43D005995BE /* VCPumpkin.m in Sources */ = {isa = PBXBuildFile; fileRef = 569BDD4916C3C43D005995BE /* VCPumpkin.m */; };
-		569BDD4C16C3CB7A005995BE /* iOS Simulator Screen shot Feb 7, 2013 6.45.26 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 569BDD4B16C3CB7A005995BE /* iOS Simulator Screen shot Feb 7, 2013 6.45.26 AM.png */; };
+		569BDD4E16C3CC48005995BE /* iOS Simulator Screen shot Feb 7, 2013 6.45.26 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 569BDD4D16C3CC48005995BE /* iOS Simulator Screen shot Feb 7, 2013 6.45.26 AM.png */; };
 		56D584B416C3C14D003E78F6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 56D584B316C3C14D003E78F6 /* UIKit.framework */; };
 		56D584B616C3C14D003E78F6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 56D584B516C3C14D003E78F6 /* Foundation.framework */; };
 		56D584B816C3C14D003E78F6 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 56D584B716C3C14D003E78F6 /* CoreGraphics.framework */; };
@@ -34,7 +34,7 @@
 		569BDD4616C3C3EF005995BE /* VCOnion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VCOnion.m; sourceTree = "<group>"; };
 		569BDD4816C3C43D005995BE /* VCPumpkin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VCPumpkin.h; sourceTree = "<group>"; };
 		569BDD4916C3C43D005995BE /* VCPumpkin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VCPumpkin.m; sourceTree = "<group>"; };
-		569BDD4B16C3CB7A005995BE /* iOS Simulator Screen shot Feb 7, 2013 6.45.26 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iOS Simulator Screen shot Feb 7, 2013 6.45.26 AM.png"; path = "../../Desktop/iOS Simulator Screen shot Feb 7, 2013 6.45.26 AM.png"; sourceTree = "<group>"; };
+		569BDD4D16C3CC48005995BE /* iOS Simulator Screen shot Feb 7, 2013 6.45.26 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iOS Simulator Screen shot Feb 7, 2013 6.45.26 AM.png"; sourceTree = "<group>"; };
 		56D584B016C3C14D003E78F6 /* IS1073-Assignment2-VegetableCart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IS1073-Assignment2-VegetableCart.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		56D584B316C3C14D003E78F6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		56D584B516C3C14D003E78F6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -118,7 +118,7 @@
 				56D584CB16C3C14D003E78F6 /* VCViewController.h */,
 				56D584CC16C3C14D003E78F6 /* VCViewController.m */,
 				56D584CE16C3C14D003E78F6 /* VCViewController.xib */,
-				569BDD4B16C3CB7A005995BE /* iOS Simulator Screen shot Feb 7, 2013 6.45.26 AM.png */,
+				569BDD4D16C3CC48005995BE /* iOS Simulator Screen shot Feb 7, 2013 6.45.26 AM.png */,
 				56D584BA16C3C14D003E78F6 /* Supporting Files */,
 			);
 			path = "IS1073-Assignment2-VegetableCart";
@@ -195,7 +195,7 @@
 				56D584C816C3C14D003E78F6 /* Default@2x.png in Resources */,
 				56D584CA16C3C14D003E78F6 /* Default-568h@2x.png in Resources */,
 				56D584D016C3C14D003E78F6 /* VCViewController.xib in Resources */,
-				569BDD4C16C3CB7A005995BE /* iOS Simulator Screen shot Feb 7, 2013 6.45.26 AM.png in Resources */,
+				569BDD4E16C3CC48005995BE /* iOS Simulator Screen shot Feb 7, 2013 6.45.26 AM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
